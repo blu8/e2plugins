@@ -41,7 +41,7 @@ msgstr "Annullare"
 #: .../enigma2-plugins/epgrefresh/src/EPGRefreshChannelEditor.py:80
 #: .../enigma2-plugins/epgrefresh/src/EPGRefreshConfiguration.py:99
 msgid "OK"
-msgstr "Ok"
+msgstr "OK"
 
 #: .../enigma2-plugins/epgrefresh/src/EPGRefreshChannelEditor.py:81
 msgid "delete"
@@ -107,7 +107,7 @@ msgstr "Riattivare da Deep-Standby per aggiornare EPG"
 
 #: .../enigma2-plugins/epgrefresh/src/EPGRefreshConfiguration.py:63
 msgid "If this is enabled, the plugin will wake up the receiver from deep standby if possible. Otherwise it needs to be switched on already."
-msgstr "Se la funzione è abilitata il plugin riattiverà automaticamente il ricevitore in deep-standby, se possibile. In caso contrario, dovrà essere già attivo."
+msgstr "Abilitando questa funzione, il plugin proverà ad attivare il ricevitore da deep-standby. In caso contrario, dovrà essere già attivo."
 
 #: .../enigma2-plugins/epgrefresh/src/EPGRefreshConfiguration.py:64
 msgid "Duration to stay on service-channels (minutes)"
