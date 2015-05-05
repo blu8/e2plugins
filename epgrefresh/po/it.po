@@ -171,7 +171,7 @@ msgstr "Ereditare canali da AutoTimer"
 
 #: .../enigma2-plugins/epgrefresh/src/EPGRefreshConfiguration.py:78
 msgid "Extend the list of services to refresh by those your AutoTimers use?"
-msgstr "Estendere l'elenco dei canali da aggiornate in base a quelli usati da Auto Timer?"
+msgstr "Estendere l'elenco dei canali da aggiornare in base a quelli usati da Auto Timer?"
 
 #: .../enigma2-plugins/epgrefresh/src/EPGRefreshConfiguration.py:79
 msgid "Run AutoTimer after refresh"
